@@ -6,13 +6,7 @@ import 'components/drawer.dart';
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
-      title: 'KalaVedika',
-      theme: ThemeData(
-        primaryColor: Colors.white,
-      ),
-      home: MyHomePage(title: 'Upcoming Events'),
-    );
+    return MyHomePage(title: 'Upcoming Events');
   }
 }
 
