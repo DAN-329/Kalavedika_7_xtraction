@@ -8,5 +8,6 @@ A platform created using Flutter and Firebase to address the lack of opportuniti
 3.	Ananya Uppal - [ananya2712](https://github.com/ananya2712)
 4.	Amogh Krishna – [Linkedin](https://www.linkedin.com/in/amogh-krishna-0a232117b/)
 
-## Video Demonstration
+## Video Demonstration:
+<img src="https://github.com/DAN-329/Kalavedika_Xtraction/blob/master/Kalavedika%20Github.gif"/>
 
